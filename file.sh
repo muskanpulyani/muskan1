@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "helloworld"
+echo "hello"
 echo  "this is  muskan"
